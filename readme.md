@@ -7,3 +7,5 @@
 # git commit -m "commit description" : to commit
 
 # git checkout -b <branch_name> : to create new branch
+
+# git checkout <branch_name> : to change branches
